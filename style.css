@@ -1,0 +1,106 @@
+body{
+    background-color: #9F9F9F;
+}
+.a{
+    color: #fff;
+}
+hr{
+    margin-top: 30px;
+}
+.idea{
+    margin-left: 10px;
+}
+.profile-img{
+    margin-left: 20px;
+}
+.container{
+    width: 870px;
+}
+.player{
+    background-color: #fff;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.html{
+    background-color: #fff;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+.c4{
+    margin-bottom: 40px;
+}
+li{
+    padding: 0px 20px;
+}
+.col-md-4{
+}
+.box1{
+    margin-top: 20px;
+}
+
+.row{
+    padding: 0px 20px;
+    margin-top: 10px;
+}
+.top-div > .row{
+    padding: 0px 0px;
+}
+.top-player{
+    padding: 30px 0px 30px 20px;
+    color: #562EFF;
+}
+.top-blog{
+    padding: 20px 0px 20px 20px;
+    color: #562EFF;
+}
+.top-course{
+    padding: 30px 0px 10px 20px;
+    color: #562EFF;
+}
+.col-md-6{
+    display: flex;
+    padding-top: 10px;
+}
+small{
+    color: #562EFF;
+}
+.aboout{
+    padding-left: 20px;
+}
+.last{
+    color: #ED6B4F;
+}
+i{
+    font-size: 11px;
+    color: lightgray;
+}
+.n45{
+    color: rgb(185, 181, 181);
+}
+.btn{
+    border: none;
+    padding: 3px 4px;
+    border-radius: 20px;
+    float: right;
+}
+.time{
+    padding-left: 5px;
+    color: #ED6B4F;
+}
+
+}
+.option{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: padding: 0px 20px;
+}
+.card{
+    width: 252.42px;
+    height: 269.79px;
+    padding: 10px;
+    border: none
+}
+.card > img{
+    margin: ;
+}
